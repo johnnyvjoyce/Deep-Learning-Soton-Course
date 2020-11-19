@@ -1,0 +1,14 @@
+intro - explain what everything is about
+
+ilias - treebank
+connah - cifar
+
+pg 4 - convergence analysis
+
+
+
+need eqn 5 to calculate expected loss. 
+how to calculate E[theta] and Var[theta]????
+one expected loss is calculated, compute optimal variance
+use optimal variance to compute optimal loss. not explained how, but probably by using var = optimal var
+grid search is then plotted 

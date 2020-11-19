@@ -1,0 +1,8 @@
+Team Name: Deep Purple
+Chosen paper title: Lookahead Optimizer: k steps forward, 1 step back
+OpenReview URL of chosen paper (if applicable): https://openreview.net/forum?id=H1lPS65z6B
+Team Members (include names, usernames and id numbers):
+Connah Romano-Scott, crs1u19, 28802284
+Ilias Kazantzidis, ik3n19, 31447538
+John Vincent Justin Joyce, jvjj1u19, 31417027
+
